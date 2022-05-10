@@ -1,0 +1,4 @@
+.venv/
+.pytest_cahce/
+__pycache__/
+.idea/
